@@ -9,3 +9,8 @@ BRANCH WORKFLOW
 2. Cresdadsa
 3. Commit focused changes.
 4. Open a Pull Request
+REVIEW GUIDELINES
+- Read the changed files.
+- Check the scope.
+- Confirm CI passes.
+- Request changes when necessary.
