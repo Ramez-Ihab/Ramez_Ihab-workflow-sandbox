@@ -1,6 +1,6 @@
 TEAM NOTES
 
-Repository changes should be focused and independently reviewable.
+Repoaaasitory changes should be focused and independently reviewable.
 Shared files should remain understandable without relying on local 2.
 Contributors 
 should work through feature branches
